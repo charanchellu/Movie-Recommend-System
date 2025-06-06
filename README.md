@@ -3,8 +3,6 @@
 
 This project is a Content-Based Movie Recommendation System with an interactive Streamlit web interface. It suggests movies based on the content similarity of features like genre, overview, cast, and keywords. The user selects a movie, and the system returns the most similar titles.
 
-🚀 Live Demo (Optional)
-You can host this on platforms like Streamlit Cloud or Render for public access.
 
 🔍 How It Works
 Feature Engineering:
